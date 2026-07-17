@@ -112,5 +112,5 @@ This project directly mirrors the IDfy Support Engineer workflow:
 ## Author
 
 **Svara Chheda**  
-B.Tech IT (Honors – Data Science) · SAKEC, Mumbai · CGPA: 9.07  
+B.Tech IT (Honors – Data Science) · SAKEC, Mumbai · CGPA: 9.23 
 [LinkedIn](https://linkedin.com/in/svara-chheda) · [GitHub](https://github.com/svara1410)
